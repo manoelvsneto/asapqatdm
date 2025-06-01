@@ -1,25 +1,26 @@
-# Justificativa do Enquadramento dos Respondentes nos Padrões (Q5)
+# Justification for Classifying Respondents into Patterns (Q5) (Translated from another language)
 
-| Padrão                          | Respondente | Justificativa                                                                                                                      |
-|---------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Empírico / Subjetivo            | RESP14      | Valoriza qualidade desde o início, mas com base em percepção pessoal; ausência de critérios, métricas ou diretrizes formais.      |
-|                                 | RESP3       | Menciona “acordo de condições mínimas” sem detalhar critérios; abordagem implícita baseada na experiência da equipe.               |
-|                                 | RESP4       | Declara explicitamente que não há processo estruturado; cada arquiteto decide com base em sua experiência empírica.               |
-| Reativo / Pós-falha             | RESP10      | Qualidade é tratada dentro do que é possível no tempo; o que não for feito vira dívida técnica — resposta reativa ao contexto.     |
-|                                 | RESP14      | Assume que qualidade ruim inicial será "escalada"; ajustes acontecem após problemas em produção.                                   |
-|                                 | RESP3       | Lançamento condicionado a condições mínimas, sem prática preventiva robusta — tendência corretiva.                                 |
-|                                 | RESP2       | Primeiro a funcionalidade, depois testes e performance; prática explícita de tratamento após entrega.                             |
-| Funcionalismo Inicial           | RESP14      | Foco em MVP funcional, mesmo sem qualidade ideal; escalonamento posterior do que foi lançado.                                      |
-|                                 | RESP5       | Embora cite vários pilares, na prática prioriza confiabilidade e manutenibilidade no MVP.                                          |
-|                                 | RESP6       | Apenas a estrutura (DDD) é considerada; não há preocupação com qualidade na primeira versão.                                       |
-|                                 | RESP8       | Foco na entrega rápida com estrutura crescente; não menciona controle formal de atributos.                                         |
-|                                 | RESP2       | Declara que a funcionalidade vem primeiro, e só depois são aplicadas medidas de qualidade.                                         |
-| Pragmático / Engenharia Mínima  | RESP12      | Descreve medidas paliativas, ausência de capacitação técnica e variações entre projetos — solução pontual, não sistemática.       |
-|                                 | RESP6       | Aplica DDD e testes unitários, mas sem prática arquitetural abrangente para qualidade.                                             |
-|                                 | RESP9       | Aplica boas práticas básicas (código limpo, testes, containers), mas sem mencionar uso de modelos, métricas ou ferramentas.       |
-| Estruturado / Sistematizado     | RESP11      | Apresenta práticas avançadas como QA, testes automatizados, cobertura via SonarQube e validação por pull-request.                 |
-|                                 | RESP13      | Enumera sistematicamente os atributos e ações associadas a cada um; indica controle e maturidade.                                 |
-|                                 | RESP5       | Aponta mapeamento formal de pilares e uso de práticas para evitar dívida técnica — sinaliza estruturação.                         |
-|                                 | RESP7       | Refere uso de Dynatrace, UX, padrões de desenvolvimento e times especializados desde o início do projeto.                         |
-|                                 | RESP9       | Vai além do mínimo técnico, incluindo deploy em containers e outros requisitos operacionais sólidos.                              |
-|                                 | RESP1       | Cita modelos de referência, revisões com pares e refinamento contínuo da arquitetura — elementos típicos de uma prática estruturada.|
+| Pattern                         | Respondent | Justification                                                                                                                      |
+|---------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Empirical / Subjective          | RESP14     | Values quality from the beginning, but based on personal perception; lacks formal criteria, metrics, or guidelines.               |
+|                                 | RESP3      | Mentions "agreement on minimum conditions" without detailing criteria; implicit approach based on team experience.                |
+|                                 | RESP4      | Explicitly states that no structured process exists; each architect decides based on their own empirical experience.              |
+| Reactive / Post-failure         | RESP10     | Quality is addressed within time constraints; what is not done becomes technical debt — reactive response to context.             |
+|                                 | RESP14     | Assumes that poor initial quality will be “scaled up”; adjustments are made only after production issues arise.                   |
+|                                 | RESP3      | Release conditioned on minimum conditions, without robust preventive practice — indicates a corrective tendency.                  |
+|                                 | RESP2      | Functionality comes first, followed by tests and performance — explicitly reactive quality management post-delivery.              |
+| Initial Functionalism           | RESP14     | Focused on delivering a functional MVP, even if quality is not ideal; assumes later escalation.                                   |
+|                                 | RESP5      | Although mentions several pillars, in practice prioritizes reliability and maintainability in the MVP.                            |
+|                                 | RESP6      | Only structural elements (e.g., DDD) are considered; no concern with quality in the first version.                                |
+|                                 | RESP8      | Focus on rapid delivery with gradually increasing structure; no mention of formal control of quality attributes.                  |
+|                                 | RESP2      | Declares that functionality comes first, and only later are quality measures applied.                                             |
+| Pragmatic / Minimal Engineering | RESP12     | Describes palliative measures, lack of technical training, and variation between projects — ad hoc solutions, not systematic.     |
+|                                 | RESP6      | Applies DDD and unit tests, but without a comprehensive architectural practice for quality.                                       |
+|                                 | RESP9      | Applies basic good practices (clean code, tests, containers), but does not mention use of models, metrics, or tools.             |
+| Structured / Systematized       | RESP11     | Describes advanced practices such as QA, automated testing, SonarQube coverage, and validation via pull requests.                 |
+|                                 | RESP13     | Systematically enumerates quality attributes and corresponding actions; indicates control and maturity.                          |
+|                                 | RESP5      | Points to formal mapping of pillars and use of practices to avoid technical debt — indicates a structured approach.              |
+|                                 | RESP7      | Mentions the use of Dynatrace, UX practices, development standards, and specialized teams from project inception.                 |
+|                                 | RESP9      | Goes beyond minimal engineering, including deployment in containers and robust operational requirements.                         |
+|                                 | RESP1      | Mentions reference models, peer reviews, and continuous architecture refinement — elements of a structured architectural practice.|
+
