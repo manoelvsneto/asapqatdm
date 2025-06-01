@@ -1,18 +1,19 @@
-## RQ8 - Descreva como são tratadas as avaliações de arquitetura
+## RQ8 – Describe how architecture evaluations are conducted (Translated from another language)
 
-| Respondente | Resposta |
-|-------------|----------|
-| RESP8  | As decisões arquiteturais passam por revisões com o comitê de arquitetura, especialmente nas fases iniciais do projeto. Usamos boas práticas de engenharia, como testes e versionamento, mas não temos clareza se a arquitetura está boa ou precisa ser ajustada. |
-| RESP4  | A arquitetura é discutida nas reuniões técnicas, mas falta um critério claro para avaliar se está adequada. Trabalhamos com o que funciona, mas não sabemos ao certo se estamos seguindo uma boa arquitetura ou o que poderíamos melhorar. |
-| RESP12 | Fazemos revisões técnicas e tomamos decisões com base na experiência dos desenvolvedores e arquitetos. Embora tenhamos pipelines, testes e práticas modernas, não conseguimos afirmar se a arquitetura está de fato adequada ou sustentável. |
-| RESP2  | Discutimos arquitetura durante os refinamentos e planejamentos técnicos. A preocupação maior é com a entrega. Não conseguimos avaliar com precisão se a arquitetura é eficiente ou escalável, nem temos clareza sobre como evoluí-la. |
-| RESP13 | Há discussões arquiteturais nas squads e alinhamentos com os tech leads. As decisões são baseadas em boas práticas do time, mas não temos critérios objetivos para saber se a arquitetura está madura ou com problemas estruturais. |
-| RESP9  | Avaliamos a arquitetura em pontos de controle do projeto, como início de releases ou definições técnicas. Usamos ferramentas e padrões internos, mas não conseguimos medir se a arquitetura está aderente a boas práticas formais. |
-| RESP5  | Temos uma prática recorrente de revisar as soluções técnicas em conjunto com o time. Embora façamos code reviews e tenhamos testes automatizados, não temos um método claro para saber se a arquitetura é de fato robusta ou precisa de ajustes. |
-| RESP3  | As decisões arquiteturais são avaliadas no contexto das histórias e funcionalidades. Embora discutamos alternativas técnicas, não conseguimos afirmar com segurança se a arquitetura está adequada no longo prazo. |
-| RESP11 | Temos uma cultura de revisão técnica com QA, devs e arquitetos. As decisões são guiadas por práticas de engenharia, mas não avaliamos formalmente os atributos de qualidade. Falta clareza sobre o que realmente define uma boa arquitetura. |
-| RESP6  | Discutimos arquitetura durante os refinamentos técnicos. Costumamos resolver os problemas à medida que surgem. Apesar de termos CI/CD e testes, não temos um diagnóstico claro sobre a qualidade arquitetural do sistema. |
-| RESP1  | A arquitetura é validada de forma colaborativa, com foco em funcionamento técnico. Embora o sistema esteja operando, não conseguimos medir se a arquitetura está degradando ou como priorizar melhorias estruturais. |
-| RESP14 | Avaliamos a arquitetura com base nas entregas e nos comportamentos técnicos percebidos. Apesar do uso de padrões internos e integração contínua, ainda não sabemos exatamente o que precisa mudar para termos uma arquitetura melhor. |
-| RESP7  | Utilizamos checkpoints arquiteturais e acompanhamos as decisões de forma contínua. Mas mesmo com essas práticas, não temos métricas ou evidências suficientes para afirmar se a arquitetura está saudável ou não. |
-| RESP10 | A arquitetura é discutida no início dos projetos e nos refinamentos. Garantimos que as decisões são viáveis, mas não sabemos ao certo se elas contribuem para uma boa arquitetura no longo prazo. Falta um modelo de avaliação estruturado. |
+| Respondent | Response |
+|------------|----------|
+| RESP8  | Architectural decisions go through reviews with the architecture committee, especially during the initial phases of the project. We use good engineering practices, such as testing and version control, but we are not sure whether the architecture is good or needs adjustment. |
+| RESP4  | Architecture is discussed in technical meetings, but there is no clear criterion for assessing whether it is adequate. We work with what functions, but we do not really know if we are following a good architecture or what could be improved. |
+| RESP12 | We conduct technical reviews and make decisions based on the developers’ and architects’ experience. Although we have pipelines, tests, and modern practices, we cannot say for sure whether the architecture is actually adequate or sustainable. |
+| RESP2  | We discuss architecture during refinements and technical planning. The main concern is delivery. We are unable to accurately assess whether the architecture is efficient or scalable, nor do we have clarity on how to evolve it. |
+| RESP13 | There are architectural discussions within the squads and alignments with tech leads. Decisions are based on the team's best practices, but we lack objective criteria to determine whether the architecture is mature or has structural issues. |
+| RESP9  | We evaluate architecture at project control points, such as the beginning of releases or technical definitions. We use internal tools and patterns, but we are unable to measure whether the architecture adheres to formal best practices. |
+| RESP5  | We have a recurring practice of reviewing technical solutions together with the team. Although we do code reviews and have automated tests, we do not have a clear method for determining whether the architecture is truly robust or needs adjustments. |
+| RESP3  | Architectural decisions are evaluated in the context of user stories and functionalities. Although we discuss technical alternatives, we cannot confidently say whether the architecture is suitable in the long term. |
+| RESP11 | We have a culture of technical review involving QA, developers, and architects. Decisions are guided by engineering practices, but we do not formally evaluate quality attributes. There is a lack of clarity about what truly defines good architecture. |
+| RESP6  | We discuss architecture during technical refinements. We usually solve problems as they arise. Despite having CI/CD and tests, we do not have a clear diagnosis of the system’s architectural quality. |
+| RESP1  | Architecture is validated collaboratively, with a focus on technical functioning. Although the system is operating, we cannot measure whether the architecture is degrading or how to prioritize structural improvements. |
+| RESP14 | We evaluate the architecture based on deliveries and observed technical behaviors. Despite using internal standards and continuous integration, we still do not know exactly what needs to change to improve the architecture. |
+| RESP7  | We use architectural checkpoints and continuously track decisions. But even with these practices, we do not have sufficient metrics or evidence to say whether the architecture is healthy or not. |
+| RESP10 | Architecture is discussed at the beginning of projects and during refinements. We ensure that decisions are viable, but we are not sure whether they contribute to a good long-term architecture. There is a lack of a structured evaluation model. |
+
