@@ -1,4 +1,4 @@
-## RQ7 – Describe how architecture technical debt (ATD) management activities are handled (Translated from another language)
+## RQ7 – Describe how architecture technical debt (ATD) management activities are handled (Translated from another language)  
 
 | Respondent | Response |
 |------------|----------|
