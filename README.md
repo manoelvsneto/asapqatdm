@@ -70,6 +70,8 @@ https://cbsoft.sbc.org.br/2025/sbcars/artigos/?lang=pt
 ---
 
 > **Note:**  
-> The qualitative networks are not provided in atlas.ti format because not all researchers have access to this tool. However, the data used in the qualitative analysis is fully available in open formats within this repository.
+> The qualitative networks are not provided in atlas.ti format because not all researchers have access to this tool. However, all data used in the qualitative analysis is fully available in open formats within this repository.
+
+---
 
 
