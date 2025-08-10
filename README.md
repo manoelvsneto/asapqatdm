@@ -67,4 +67,9 @@ https://cbsoft.sbc.org.br/2025/sbcars/artigos/?lang=pt
 - **Q8_Category-Respondent-Response_Network.csv**  
   Qualitative network for RQ8 categories.
 
+---
+
+> **Note:**  
+> The qualitative networks are not provided in atlas.ti format because not all researchers have access to this tool. However, the data used in the qualitative analysis is fully available in open formats within this repository.
+
 
